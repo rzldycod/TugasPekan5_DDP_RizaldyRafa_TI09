@@ -1,0 +1,1 @@
+Screenshot yang ketiga itu diambil dari Mac temen saya, soalnya Python saya versi 3.8. Sementara Condition Match bisanya cuma di Python versi 3.10 keatas. Laptop saya Win 7 32-bit jadi nggak bisa download Python versi 3.10.
